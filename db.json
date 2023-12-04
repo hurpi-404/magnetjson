@@ -1,5 +1,5 @@
 {
-  "measurements":  [{
+  "measurements":  {
     "horizontal":32.0,
     "horizontal":32.0,
     "vertical":72.0,
@@ -13,5 +13,5 @@
     "angleInDegrees":34.508522,
     "angle":0.60228735,
     "storm":2
-  }]
+  }
 }

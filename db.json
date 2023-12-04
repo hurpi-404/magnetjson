@@ -1,0 +1,16 @@
+{
+  "measurements": {
+    "horizontal":32.0,
+    "vertical":72.0,
+    "year":2023,
+    "month":8,
+    "day":6,
+    "hour":22,
+    "minute":12,
+    "time":"2023-09-06T19:12:00.000+00:00",
+    "stringStorm":"Strong storm",
+    "angleInDegrees":34.508522,
+    "angle":0.60228735,
+    "storm":2
+  }
+}
